@@ -11,13 +11,6 @@ Pursuing Economics Major, Data Science Minor
 </div>
 
 
-## Current Job
-
-**Company:** BYU-Idaho Testing Center  
-**Duration:** April 2024 - Present  
-**Position:** Proctor
-
-
 ## Education
 
 __Brigham Young University - Idaho__
@@ -27,6 +20,12 @@ __Brigham Young University - Idaho__
 ### Specialized Skills
 
 Excel (Intermediate), Accounting (Basic), Python (Intermediate), SQL (Intermediate)
+
+## Current Occupation
+
+**Company:** BYU-Idaho Testing Center  
+**Duration:** April 2024 - Present  
+**Position:** Proctor
 
 ## Past Occupations
 
