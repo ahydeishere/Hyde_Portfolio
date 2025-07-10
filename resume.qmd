@@ -3,7 +3,7 @@ layout: cv
 title: Aaron Hyde's CV
 ---
 # Aaron Hyde
-Economics Major, Data Science Minor
+Pursuing Economics Major, Data Science Minor
 
 <div id="webaddress">
 <a href="aaronhyde636@gmail.com">aaronhyde636@gmail.com</a>
@@ -11,36 +11,39 @@ Economics Major, Data Science Minor
 </div>
 
 
-## Currently
+## Current Job
 
-Standing on the shoulders of giants
+Company: BYU-Idaho Testing Center
+Duration: April 2024 - Present
+Position: Proctor
 
-### Specialized in
+
+
+### Specialized Skills
 
 Excel (Intermediate), Accounting (Basic), Python (Intermediate), SQL (Intermediate)
 
 
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
-
 ## Education
 
-`2024-now`
-__Brigham Young University - Idaho.__
+`January 2024-now`
+__Brigham Young University - Idaho__
 
 
 ## Past Occupations
 
-`1600`
-__Royal Mint__, London
+Company: UPS
+Duration: August 2023 – December 2023
+Position: Delivery Driver Helper/Preload 
 
-- Warden
-- Minted coins
+Company:Broulims 				
+Duration:July 2019 – November 2020, July 2024 - September 2024
+Position: Deli Clerk, Casher
 
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+Company: Boys Scouts of America
+Duration: May – August 2018, 2019, 2021
+Position: Summer Camp Counselor 
+
 
 
 
